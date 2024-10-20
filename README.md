@@ -17,4 +17,4 @@
 Jovem de 16 anos apaixonado por tecnologia, que desde novo se compromete aos estudos. Estou pronto para enfrentar novos desafios e mudar a vida das pessoas através da programação. <hr>
 
 ### Contato
-📧 nicolasmororuiz@gmail.com
+[![Gmail](https://img.shields.io/badge/nicolasmororuiz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://nicolasmororuiz@gmail.com)
