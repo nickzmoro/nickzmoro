@@ -14,4 +14,7 @@
   <img align='center' alt='JavaScript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
 </div><br>
 
-Jovem de 16 anos apaixonado por tecnologia, que desde novo se compromete aos estudos. Estou pronto para enfrentar novos desafios e mudar a vida das pessoas através da programação.
+Jovem de 16 anos apaixonado por tecnologia, que desde novo se compromete aos estudos. Estou pronto para enfrentar novos desafios e mudar a vida das pessoas através da programação. <hr>
+
+### Contato
+📧 nicolasmororuiz@gmail.com
