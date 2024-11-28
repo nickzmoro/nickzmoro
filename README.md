@@ -8,11 +8,11 @@
 
 ### Tecnologias que eu uso no meu dia
 
-<div style='display: inline_block'><hr>
+<div style='display: inline_block'>
   <img align='center' alt='HTML5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
   <img align='center' alt='CSS3' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
   <img align='center' alt='JavaScript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
-</div><br>
+</div><br><hr>
 
 Jovem de 16 anos apaixonado por tecnologia, que desde novo se compromete aos estudos. Estou pronto para enfrentar novos desafios e mudar a vida das pessoas através da programação. <hr>
 
