@@ -1,16 +1,23 @@
-### Olá, eu sou o Nicolas Moro 👋
+## Olá, eu sou o Nicolas Moro 👋
+  
+>:computer: Programador **Front-End**
 
-> :computer: Programador Front-End
 
-#### Tecnologias que eu utilizo no meu dia a dia:
+### Tecnologias que eu utilizo no meu dia a dia:
 
-<div style='display: inline_block'>
+<div style='display: inline-block'>
   
   ![html-logo](https://github.com/user-attachments/assets/afcbd5cd-75c7-41ec-887a-f4fb0bd82e29)
   ![logo-css](https://github.com/user-attachments/assets/440fd2f3-77d8-4c9f-92e0-d6621e67e47d)
   ![logo-javascript](https://github.com/user-attachments/assets/d714a137-cde9-4ee6-853e-ce23630b4318)
   
-</div><hr>
+</div>
+
+Em breve..
+
+>![logo-react](https://github.com/user-attachments/assets/696fdcc2-514f-418c-b5a9-917d3e601c23)
+![logo-typescript](https://github.com/user-attachments/assets/2c0df8d3-8cbb-4218-b05f-145c540dcf75)
+![logo-tailwindCss](https://github.com/user-attachments/assets/89555afd-8e1e-4e68-9fb4-66bb792da82c)
 
 [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-nicolasmoro.netlify.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-moro-26a5062b4/)
