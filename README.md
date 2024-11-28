@@ -3,15 +3,11 @@
 >:computer: Programador **Front-End**
 
 
-### Tecnologias que eu utilizo no meu dia a dia:
+### Tecnologias que eu utilizo no meu dia a dia atualmente:
 
-<div style='display: inline-block'>
-  
-  ![html-logo](https://github.com/user-attachments/assets/afcbd5cd-75c7-41ec-887a-f4fb0bd82e29)
-  ![logo-css](https://github.com/user-attachments/assets/440fd2f3-77d8-4c9f-92e0-d6621e67e47d)
-  ![logo-javascript](https://github.com/user-attachments/assets/d714a137-cde9-4ee6-853e-ce23630b4318)
-  
-</div>
+![html-logo](https://github.com/user-attachments/assets/afcbd5cd-75c7-41ec-887a-f4fb0bd82e29)
+![logo-css](https://github.com/user-attachments/assets/440fd2f3-77d8-4c9f-92e0-d6621e67e47d)
+![logo-javascript](https://github.com/user-attachments/assets/d714a137-cde9-4ee6-853e-ce23630b4318)
 
 Em breve..
 
@@ -28,4 +24,6 @@ Em breve..
 Jovem de 16 anos apaixonado por tecnologia, que desde novo se compromete aos estudos. Estou pronto para enfrentar novos desafios e mudar a vida das pessoas através da programação. <hr>
 
 ### Contato
-📧 - nicolasmororuiz@gmail.com
+:e-mail: - nicolasmororuiz@gmail.com
+
+:telephone_receiver:- (+55) 14 99666-1883
