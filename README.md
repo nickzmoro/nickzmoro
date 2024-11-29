@@ -1,7 +1,5 @@
 ## Olá, eu sou o Nicolas Moro 👋
-  
 >:computer: Programador **Front-End**
-
 
 ### Tecnologias que eu utilizo no meu dia a dia atualmente:
 
@@ -17,8 +15,10 @@ Em breve..
 ![logo-typescript](https://github.com/user-attachments/assets/2c0df8d3-8cbb-4218-b05f-145c540dcf75)
 ![logo-tailwindCss](https://github.com/user-attachments/assets/89555afd-8e1e-4e68-9fb4-66bb792da82c)
 
+### Veja meu portfólio :point_down:
 
 [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-nicolasmoro.netlify.app/)
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-moro-26a5062b4/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nickzmoro/)
 
