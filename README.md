@@ -1,5 +1,5 @@
 ## Olá, eu sou o Nicolas Moro 👋
->:computer: Programador **Front-End**
+>:computer: Desenvolvedor **Front-End** | Desenvolvedor Web
 
 ### Tecnologias que eu utilizo no meu dia a dia atualmente:
 
