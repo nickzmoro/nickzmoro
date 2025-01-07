@@ -1,4 +1,5 @@
 ## Olá, eu sou o Nicolas Moro 👋
+
 >:computer: Desenvolvedor **Front-End** | Desenvolvedor Web
 
 ### Tecnologias que eu utilizo no meu dia a dia atualmente:
@@ -35,3 +36,5 @@ Em breve..
 :e-mail: - nicolasmororuiz@gmail.com
 
 :telephone_receiver:- (+55) 14 99666-1883
+
+![grid-snake](https://github.com/user-attachments/assets/cd36364b-f058-4877-a514-98975e479690)
