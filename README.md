@@ -1,5 +1,4 @@
-## Olá, eu sou o Nicolas Moro 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=D4D4D4&width=435&lines=Bem-vindo!+Me+chamo+Nicolas+Moro.;Sou+um+Desenvolvedor+Front-End)](https://git.io/typing-svg)
 >:computer: Desenvolvedor **Front-End** | Desenvolvedor Web
 
 ### Tecnologias que eu utilizo no meu dia a dia atualmente:
