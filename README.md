@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3500&pause=500&color=A9FEB7&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+sou+o+Nicolas+Moro!;Desenvolvedor+Front-End;Engenheiro+de+Software)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3500&pause=500&color=A9FEB7&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+sou+o+Nicolas+Moro!;Desenvolvedor+Front-End;Engenheiro+de+Software)](https://git.io/typing-svg)
 <div align="center">
   
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/fagnerpsantos/)
