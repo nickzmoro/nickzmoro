@@ -41,7 +41,7 @@ Hoje sigo aprimorando minhas habilidades e buscando novas oportunidades para tra
 ## 🚀 Meu GitHub Status
 [![Nicolas Moro GitHub stats](https://github-readme-stats.vercel.app/api?username=nickzmoro&show_icons=true&theme=dark)
 
-### Contato
+## 🪧 Contato
 :e-mail: - nicolasmororuiz@gmail.com
 
 :telephone_receiver:- (+55) 14 99666-1883
