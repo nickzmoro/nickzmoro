@@ -42,7 +42,7 @@ Hoje sigo aprimorando minhas habilidades e buscando novas oportunidades para tra
 ![drizzle](https://img.shields.io/badge/Drizzle-C5F74F.svg?style=for-the-badge&logo=Drizzle&logoColor=black)
 
 ## 🚀 Meu GitHub Status
-[![Nicolas Moro GitHub stats](https://github-readme-stats.vercel.app/api?username=nickzmoro&show_icons=true&theme=dark)
+![Nicolas Moro GitHub stats](https://github-readme-stats.vercel.app/api?username=nickzmoro&show_icons=true&theme=dark)
 
 ## 🪧 Contato
 :e-mail: - nicolasmororuiz@gmail.com
