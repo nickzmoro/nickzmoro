@@ -11,7 +11,7 @@
 
 ## 👨🏻‍💻 Sobre mim
 
-Sou um Desenvolvedor Front-End em início de carreira, com paixão por criar interfaces intuitivas e funcionais. Desde meu primeiro contato com a programação em 2023, venho construindo projetos utilizando HTML5, CSS3, JavaScript, React, Next.js, Typescript, TailwindCSS, Git e me arriscando em criar projetos com back-end e databases.
+Sou um Desenvolvedor Web Full Stack em início de carreira, com paixão por criar interfaces intuitivas e funcionais. Desde meu primeiro contato com a programação em 2023, venho construindo projetos utilizando HTML5, CSS3, JavaScript, React, Next.js, Typescript, TailwindCSS, Git, Node.js, utilizando ferramentas como Drizzle ORM.
 
 Tenho grande interesse em entregar experiências que simplifiquem a vida dos usuários, unindo criatividade e eficiência. Sou um profissional comprometido, focado em encontrar soluções práticas e colaborando ativamente em equipe para o sucesso de projetos.
 
@@ -19,7 +19,7 @@ Busco constantemente evoluir minhas habilidades técnicas e pessoais, com o obje
 
 ## 🎓 Minha trajetória
 
-Minha trajetória começou no básico da web, com HTML, CSS e JavaScript, e evoluiu para o uso de tecnologias como ReactJS | Next.js | TailwindCSS | Consumo de APIs, e em aprendizado está: Node.js | PostgreSQL | Drizzle | Prisma.
+Minha trajetória começou no básico da web, com HTML, CSS e JavaScript, e evoluiu para o uso de tecnologias como ReactJS | Next.js | TailwindCSS | Consumo de APIs | Node.js | PostgreSQL | Drizzle.
 
 Entre meus principais trabalhos estão o da <a href="https://github.com/nickzmoro/bewear">BEWEAR</a>, um e-commerce em constante evolução; o site para uma sorveteria chamada <a href="https://github.com/nickzmoro/maq-soft">Maq Soft</a>, que modernizou a presença digital de um negócio local; e o projeto da <a href="https://github.com/nickzmoro/dolcci-b">Dolcci'B</a>, no qual desenvolvi uma solução personalizada para um empreendimento real. Cada um desses projetos fortaleceu minha experiência em unir design, usabilidade e código de qualidade.
 
@@ -36,11 +36,10 @@ Hoje sigo aprimorando minhas habilidades e buscando novas oportunidades para tra
 ![next](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
 
-### ⚙️ Back-End & Databases (em aprendizado):
+### ⚙️ Back-End & Databases:
 ![node](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![postgres](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![drizzle](https://img.shields.io/badge/Drizzle-C5F74F.svg?style=for-the-badge&logo=Drizzle&logoColor=black)
-![prisma](https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ## 🚀 Meu GitHub Status
 [![Nicolas Moro GitHub stats](https://github-readme-stats.vercel.app/api?username=nickzmoro&show_icons=true&theme=dark)
